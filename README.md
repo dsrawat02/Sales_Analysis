@@ -16,24 +16,24 @@
 
 ### Project Overview
 
-This data analysis project aims to provide insights into the sales performance of an pizza company over the past year. By analysing the various aspects of the sales data, we seek to identify trend, make data driven recommendations, and gain a deeper understanding of the company's performance.
+This data analysis project aims to provide insights into the sales performance of a pizza company over the past year. By analyzing the various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
 
 ### Data Source
 
-Sales Data: The primary dataset used for the analysis is the 'pizza_sales2.csv' file, containing detailed inormation about each sale made by the company.
+Sales Data: The primary dataset used for the analysis is the 'pizza_sales2.csv' file, containing detailed information about each sale made by the company.
 
 
 ### Tools Used
 
 - MS Excel - For data cleaning
-- MySQL - For analysing the data
+- MySQL - For analyzing the data
 - PowerBI - For generating various dashboards
 
 
 ### Data Preparation
 
-In the initial data preparation phase I've performed the following tasks:
+In the initial data preparation phase I performed the following tasks:
 1. Data loading and inspection.
 2. Handling missing values.
 3. Data cleaning and formatting.
@@ -96,9 +96,9 @@ EDA involved exploring the sales data to answer key questions, such as:
 
 ### Results or Findings
 
-The anlysis results are summarized as follows:
-- The company's sales have been steadily increasing over the past year, with a noticable peak during summer.
-- Classic pizza category is the best performing category in terms of sales and revenue.
+The analysis results are summarized as follows:
+- The company's sales have been steadily increasing over the past year, with a noticeable peak during summer.
+- Classic pizza category is the best-performing category in terms of sales and revenue.
 
 
 ### Recommendations
@@ -110,7 +110,7 @@ Based on the analysis, I recommend the following actions:
 
 ### Limitations
 
-I've to remove all zero values from unit price and total price columns because they would have affected the accuracy of my calculations from the analysis. 
+I had to remove all zero values from the unit price and total price columns because they would have affected the accuracy of my calculations from the analysis. 
 
 
 
